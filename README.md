@@ -32,7 +32,7 @@ I am a QA Automation Engineer with extensive workexperience, I know how to build
 
 ## My opensource projects
 
-*   [Всё о тестировании]([https://github.com/romankh3/image-comparison](https://www.testing87.online/) - вся самая важная информация своими словами :)
+*   [Всё о тестировании](https://www.testing87.online/) - вся самая важная информация своими словами :)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/nick8787/github-profile-views-counter">
