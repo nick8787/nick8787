@@ -21,18 +21,18 @@ I am a QA Automation Engineer with extensive workexperience, I know how to build
 </p>
 
 
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
-
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   Java
+*   Maven
+*   Selenium
+*   TestNG, JUnit
+*   Jenkins, Docker, PlayWright
+*   MySQL
+*   Rest API
+*   Bash
+*   Postman, Rest‑Assured
+*   JMeter
+*   OWASP ZAP
 
 ### My opensource projects
 
