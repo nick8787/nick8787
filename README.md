@@ -21,25 +21,18 @@ I am a QA Automation Engineer with extensive workexperience, I know how to build
 </p>
 
 
-## 🛠 Technical Stack
+## 🛠 Technical skiils
 *   Java
-*   Maven
-*   Selenium
-*   TestNG, JUnit
+*   Maven, Selenium, TestNG, JUnit
 *   Jenkins, Docker, PlayWright
 *   MySQL
 *   Rest API
-*   Bash
-*   Postman, Rest‑Assured
-*   JMeter
-*   OWASP ZAP
+*   Git
+*   Postman, Rest‑Assured, JMeter, OWASP ZAP
 
-### My opensource projects
+## My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   [Всё о тестировании]([https://github.com/romankh3/image-comparison](https://www.testing87.online/) - вся самая важная информация своими словами :)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/nick8787/github-profile-views-counter">
