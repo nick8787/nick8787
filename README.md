@@ -21,7 +21,7 @@ I am a QA Automation Engineer with extensive workexperience, I know how to build
 </p>
 
 
-## 🛠 Technical skiils
+## 🛠 Techn skills
 *   Java
 *   Maven, Selenium, TestNG, JUnit
 *   Jenkins, Docker, PlayWright
