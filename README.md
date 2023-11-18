@@ -17,7 +17,7 @@ I am a QA Automation Engineer with extensive workexperience, I know how to build
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:kolyakol8787@gmail.com'>kolyakol8787@gmail.com</a>
+   📫 My email: <a href='mailto:kolyakol8787@gmail.com'>kolyakol8787@gmail.com</a>
 </p>
 
 
