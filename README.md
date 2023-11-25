@@ -24,7 +24,7 @@ I am a QA Automation Engineer with extensive workexperience, I know how to build
 ## 🛠 Techn skills
 *   Java
 *   Maven, Selenium, TestNG, JUnit
-*   Jenkins, Docker, PlayWright
+*   Jenkins, Docker, PlayWright, Cypress
 *   MySQL
 *   Rest API
 *   Git
