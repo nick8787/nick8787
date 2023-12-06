@@ -1,5 +1,5 @@
 # Hi, I'm Nickolay 👋
-I am a QA Automation Engineer with extensive workexperience, I know how to build testing processes and where I could be helpful. My main passion is to getting new knowledge and gaining experience working with new technologies.
+I’m a QA Engineer with deep experience in Backend, Frontend testing which has been applied in development of large international projects and i’m self-confident and i know where I can be useful.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=nick8787&show_icons=true&count_private=true"><img
