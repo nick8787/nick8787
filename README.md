@@ -10,7 +10,7 @@ I am a QA Automation Engineer with extensive workexperience, I know how to build
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="www.linkedin.com/in/mykola-shchypailo-284997297">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/nick8787" target = "_blank">
