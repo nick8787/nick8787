@@ -28,7 +28,7 @@ I’m a QA Engineer with deep experience in Backend, Frontend testing which has 
 *   MySQL
 *   Rest API
 *   Git
-*   Postman, Rest‑Assured, JMeter, OWASP ZAP
+*   Postman, Rest‑Assured, JMeter, Gatling, OWASP ZAP
 
 ## My opensource projects
 
