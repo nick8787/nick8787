@@ -32,7 +32,7 @@ I’m a QA Engineer with deep experience in Backend, Frontend testing which has 
 
 ## My opensource projects
 
-*   [Всё о тестировании](https://www.testing87.online/) - вся самая важная информация своими словами :)
+*   [All about testing](https://www.testing87.online/) - all the most important information in my own words :)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/nick8787/github-profile-views-counter">
