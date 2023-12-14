@@ -30,7 +30,7 @@ I’m a QA Engineer with deep experience in Backend, Frontend testing which has 
 *   Git
 *   Postman, Rest‑Assured, JMeter, Gatling, OWASP ZAP
 
-## My opensource projects
+## My opensource project
 
 *   [All about testing](https://www.testing87.online/) - all the most important information in my own words :)
 
