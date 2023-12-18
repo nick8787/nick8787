@@ -23,7 +23,7 @@ I’m a QA Engineer with deep experience in Backend, Frontend testing which has 
 
 ## 🛠 Tech skills
 *   Java
-*   Maven, Selenium, TestNG, JUnit
+*   Maven, Selenium, Selenide, TestNG, JUnit
 *   Jenkins, Docker, PlayWright, Cypress
 *   MySQL
 *   Rest API
