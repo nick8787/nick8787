@@ -23,12 +23,13 @@ I’m a QA Engineer with deep experience in Backend, Frontend testing which has 
 
 ## 🛠 Tech skills
 *   Java
-*   Maven, Selenium, Selenide, TestNG, Lombok, assertJ
+*   Maven, Gradle, Selenium, Selenide, TestNG, JUnit
 *   Jenkins, Docker, Playwright, Cypress, GitLab
 *   MySQL
-*   Rest API
+*   Rest API, Lombok, Jackson, Rest‑Assured, JDBC
 *   Git
-*   Postman, Rest‑Assured, JMeter, Gatling, OWASP ZAP
+*   Postman, JMeter, Gatling, OWASP ZAP
+*   Android Studio, Appium
 
 ## My opensource project
 
