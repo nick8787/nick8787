@@ -31,10 +31,6 @@ I’m a QA Engineer with deep experience in Backend, Frontend testing which has 
 *   Postman, JMeter, Gatling, OWASP ZAP
 *   Android Studio, Appium
 
-## My opensource project
-
-*   [All about testing](https://www.testing87.online/) - all the most important information in my own words :)
-
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/nick8787/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=nick8787&color=DE002D">
