@@ -1,4 +1,4 @@
-# Hi, I'm Nickolay 👋
+# Hi, I'm Mykola 👋
 I’m a QA Engineer with deep experience in Backend, Frontend testing which has been applied in development of large international projects and i’m self-confident and i know where I can be useful.
 
 <p align='center'>
