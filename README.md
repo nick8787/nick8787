@@ -8,22 +8,23 @@ Over the years, I’ve evolved into a **Full-Stack Developer** with hands-on exp
 
 
 <p align='center'>
-   <a href="https://www.udemy.com/user/mykola-shchypailo/">
+   <a href="https://www.udemy.com/user/mykola-shchypailo/" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
    </a>
-   <a href="https://m-shchypailo.com/" target="_blank">
+   <a href="https://m-shchypailo.com/" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/My%20Website-%23444444.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/>
    </a>
-   <a href="https://www.youtube.com/@m-shchypailo" target="_blank">
+   <a href="https://www.youtube.com/@m-shchypailo" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
    </a>
-   <a href="https://www.linkedin.com/in/mykola-shchypailo-284997297/">
+   <a href="https://www.linkedin.com/in/mykola-shchypailo-284997297/" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="mailto:mykola.shchypailo@gmail.com" target="_blank">
+   <a href="mailto:mykola.shchypailo@gmail.com" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
    </a>
 </p>
+
 
 
 ## 🎓 My Courses
