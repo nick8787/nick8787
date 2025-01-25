@@ -31,8 +31,9 @@ Over the years, I’ve evolved into a **Full-Stack Developer** with hands-on exp
 
 | [Spring Boot Project](https://www.udemy.com/course/spring-boot-java-project/) | [Appium Mobile Automation](https://www.udemy.com/course/appium-automation-mobile-app-java-cicd-gitlab/) | [API Testing](https://www.udemy.com/course/api-java-rest-assured-maven-postman-cicd/) |
 |:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
-| ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%230072b1?style=for-the-badge&logo=java&logoColor=white) | ![Appium Mobile](https://img.shields.io/badge/-Appium%20Mobile-%23E44C4C?style=for-the-badge&logo=android&logoColor=white) | ![API Testing](https://img.shields.io/badge/-REST%20API%20Testing-%23F56B00?style=for-the-badge&logo=postman&logoColor=white) |
+| <a href="https://www.udemy.com/course/spring-boot-java-project/" target="_blank" rel="noopener noreferrer">![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%230072b1?style=for-the-badge&logo=java&logoColor=white)</a> | <a href="https://www.udemy.com/course/appium-automation-mobile-app-java-cicd-gitlab/" target="_blank" rel="noopener noreferrer">![Appium Mobile](https://img.shields.io/badge/-Appium%20Mobile-%23E44C4C?style=for-the-badge&logo=android&logoColor=white)</a> | <a href="https://www.udemy.com/course/api-java-rest-assured-maven-postman-cicd/" target="_blank" rel="noopener noreferrer">![API Testing](https://img.shields.io/badge/-REST%20API%20Testing-%23F56B00?style=for-the-badge&logo=postman&logoColor=white)</a> |
 | Covers Spring Boot, JWT, PostgreSQL, Security and Microservices | Covers Java, Gradle, Appium, Android Studio and GitLab CI/CD | Covers Java, REST Assured, Maven, Postman, and CI/CD |
+
 
 ## 🛠 QA Tech skills
 *   Java
