@@ -17,9 +17,9 @@ Over the years, I’ve evolved into a **Full-Stack Developer** with hands-on exp
    <a href="https://www.youtube.com/@m-shchypailo" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
    </a>
-   <a href="https://www.linkedin.com/in/mykola-shchypailo-284997297/" target="_blank" rel="noopener noreferrer">
+<!--    <a href="https://www.linkedin.com/in/mykola-shchypailo-284997297/" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
+   </a> -->
    <a href="mailto:mykola.shchypailo@gmail.com" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
    </a>
