@@ -43,7 +43,6 @@ Having evolved from **QA Automation** into **Full-Stack and Mobile development**
 *   **Local Storage & Offline-First:** Hive, SharedPreferences
 *   **UI, Custom Graphics & Animations:** CustomPainter, Canvas API, Fragment Shaders (GLSL), Liquid Glass / Neumorphic UI, Lottie, Rive, Hero Animations
 *   **Hardware & Sensors Integration:** `sensors_plus` (Gyroscope, Accelerometer), Haptic Feedback, Camera, Local Notifications
-*   **Monetization:** RevenueCat (In-App Purchases & Subscriptions)
 *   **Build Flavors & Environments:** Multi-Flavor Architecture (dev / prod), `flutter_dotenv`
 *   **Profiling & Optimization:** Flutter DevTools, Memory Leak Detection, RepaintBoundary Optimization, Frame Budgeting (60/120 FPS)
 *   **Localization & Asset Tooling:** `easy_localization`, `flutter_launcher_icons`, `flutter_native_splash`, SVG rendering
