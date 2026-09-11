@@ -1,6 +1,6 @@
 # Hi, I'm Mykola 👋  
 
-**Full-Stack Engineer** specializing in **Mobile & Web Development with Flutter**, backed by strong foundations in **Backend systems (Java, Spring Boot, PostgreSQL)** and **Cloud architecture (Firebase)**.
+**Software Engineer** specializing in **Mobile & Web Development with Flutter**, backed by strong foundations in **Backend systems (Java, Spring Boot, PostgreSQL)** and **Cloud architecture (Firebase)**.
 
 Having evolved from **QA Automation** into **Full-Stack and Mobile development**, I approach software engineering with a complete lifecycle mindset. I don't just build client-side interfaces - I architect **end-to-end solutions**, design **secure backends**, integrate cutting-edge **LLMs / AI services** and enforce **clean, testable code**.
 
